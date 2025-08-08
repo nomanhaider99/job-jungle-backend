@@ -32,5 +32,5 @@ my-express-app/
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/nomanhaider99/job-jungle-backend
 cd your-repo-name
